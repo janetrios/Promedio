@@ -16,7 +16,7 @@ public class Computer {
         this.marca = brand;
     }
 
-    
+
     public void setModelo(String model) {
         this.modelo = model;
     }
