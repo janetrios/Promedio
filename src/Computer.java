@@ -17,6 +17,8 @@ public class Computer {
     }
 
 
+
+
     public void setModelo(String model) {
         this.modelo = model;
     }
