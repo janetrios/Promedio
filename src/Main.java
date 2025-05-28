@@ -6,6 +6,8 @@ public class Main {
         myComputer.setMarca("Asus");
         myComputer.setModelo("Rog Zephyrus");
 
+
+
         System.out.println("Brand: " + myComputer.getMarca());
         System.out.println("Model: " + myComputer.getModelo());
 
